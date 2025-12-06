@@ -1,4 +1,4 @@
-![Recursive Multiples Icon](https://copilot.microsoft.com/th/id/BCO.3b2e7e9e-4c6e-4a3b-9b4e-3e6b7a6b7c2c.png)
+
 
 
 🔁 Recursive Multiples Printer – C# Console App
